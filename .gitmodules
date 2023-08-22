@@ -1,0 +1,8 @@
+[submodule "plarform-dags-aggregator/hpedemo-user04_dags"]
+	path = plarform-dags-aggregator/hpedemo-user04_dags
+	url = https://github.com/akravacyber/user04-airflow-dags.git
+	branch = main
+[submodule "plarform-dags-aggregator/hpedemo-user05_dags"]
+	path = plarform-dags-aggregator/hpedemo-user05_dags
+	url = https://github.com/akravacyber/user05-airflow-dags.git
+	branch = main
